@@ -1,5 +1,3 @@
-package Aula2;
-
 public class ExercicioVariaveis {
     public static void main(String[] args) {
         String nome = "Douglas";

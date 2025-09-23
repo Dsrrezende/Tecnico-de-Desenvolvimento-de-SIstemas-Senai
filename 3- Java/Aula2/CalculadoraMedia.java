@@ -1,5 +1,3 @@
-package Aula2;
-
 public class CalculadoraMedia {
     public static void main(String[] args) {
         double nota1 = 8.5;
