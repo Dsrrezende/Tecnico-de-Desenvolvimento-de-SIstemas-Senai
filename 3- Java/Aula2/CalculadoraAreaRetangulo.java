@@ -6,9 +6,8 @@ Crie duas variáveis com o nome base e altura com valores iniciais e exiba
  
 public class CalculadoraAreaRetangulo {
     public static void main(String[]args){
-        double base = 8.5;
-        double altura = 6.0;
+        double base = 8.5, altura = 6.0;
 
-        System.out.println("A área do Retangulo é: "+ base*altura);
+        System.out.println("A área do Retangulo é: " + base*altura);
     }
 }
